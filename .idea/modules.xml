@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA ASSIGNMENT.iml" filepath="$PROJECT_DIR$/.idea/DSA ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/arrays-strings/arrays-strings.iml" filepath="$PROJECT_DIR$/DSA/arrays-strings/arrays-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/binary-trees/binary-trees.iml" filepath="$PROJECT_DIR$/DSA/binary-trees/binary-trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/hash-tables/hash-tables.iml" filepath="$PROJECT_DIR$/DSA/hash-tables/hash-tables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/heaps/heaps.iml" filepath="$PROJECT_DIR$/DSA/heaps/heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/linked-lists/linked-lists.iml" filepath="$PROJECT_DIR$/DSA/linked-lists/linked-lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/two-pointers/two-pointers.iml" filepath="$PROJECT_DIR$/DSA/two-pointers/two-pointers.iml" />
+    </modules>
+  </component>
+</project>
